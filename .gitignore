@@ -1,0 +1,9 @@
+# Secrets — never commit real credentials
+config.env
+
+# Excel lock/temp files
+~$*.xlsx
+
+# Python
+__pycache__/
+*.pyc
